@@ -9,16 +9,41 @@
   "version": 1,
   "newAppLink": "",
   
-  "video": "https://drive.google.com/uc?id=16v9O81rSv4NzedIWd_pKLbc0Uqq81BSg",
-  "privacy": "https://wwww.google.com",
+  "video": "https://drive.google.com/uc?id=1zQLVU2MyCmWLB11GXqp78MLBRTpAhdMT",
+  "privacy": "https://nadinnagell.github.io/privacy.html",
   
   "spancount": 1,
   "guide": [ 
-     [
-          "Tip 1",
-          "https://img.youtube.com/vi/d7A6mdjduYE/maxresdefault.jpg",
-          "Welcome to this guide nighbor alpha that can help you to to progress quickly in the game Enjoy !\n\nEarphone jack can be connected and bay logger data can be transferred and saved.\n\n· If you are connected to the Internet, you can check the saved data at any time.\n· You can check the number of times you played with , the maximum shoot power. It can also compare with the national average.\n· You can read the bay code attached to the  and register and check it in the garage.\n· You can see the records that participated in the  competition.\n· You can see friends who have replaced their Friend ID.\n\nRealistic physics (NVIDIA PhysX)\n• 7 Stadiums (+1)\n• 11 Spin-Tops and over 40 different parts.\n• Special attacks\n• 4 launch cords\n• 3 Game modes\n• Online high score leaderboards\n• 26 Achievements\n• Detailed textures and 3D models, Reflections etc...\n• Should run even on low end devices!\n• And more is coming with updates (For example special attacks and more stadiums, Spin-Tops and game modes)\n• Powered by Unity game engine"
-        ]
+      [
+      "Garena Free Fire: A basic beginners guide",
+      "https://static.digit.in/default/d4ebbca31dc2b8f0555464d8efd7f91c294b4a35.jpeg",
+      "If you’re reading this, then chances are that you are new to the game, and possibly the battle royale genre as a whole. So here’s a quick rundown. Garena Free Fire pits you against 49 other players in a battle for survival. You are dropped on an island and it’s up to you to pick a landing spot, find weapons and resources and defeat all other players. Sounds simple right. We assure you, it is NOT!  We tried playing it and have come up with a few tips that can help you be the last person standing. The right character choice \n As your progress through the game, you unlock various characters that you can choose to play as. Each of these characters come with a special ability that can give you the edge in battle. All you need to do is know the type of gameplay you prefer and choose a character accordingly"
+    ],
+    [
+      "Use the minimap to your advantage",
+      "https://static.digit.in/default/cd65fd750a374ed703816342194c1a3d63fd3ad7.jpeg",
+      "The minimap shows any nearby players that are shooting. This should be at you, or at another player. However, the map will not only show you the location of the enemy players, but also the direction in which they are shooting. This means that you can actually sneak up behind an opponent attacking another player and take them out"
+    ],
+    [
+      "Your reticle is your friend",
+      "https://static.digit.in/default/1bff01ba70a56f0b53505dedbb56c8f96fa346b0.jpeg",
+      "One unique aspect of Garena Free Fire is that your reticle changes colour the moment an enemy is in the crosshair. This means that you can use it to ‘scan’ areas where you think an enemy may be. If it changes colour, an enemy is in your sight. You can then fire and get a few hits on the enemy"
+    ],
+    [
+      "Burst fire to success",
+      "https://static.digit.in/default/28ebd4e9a8b8b5fb946592bbeac03d510370244b.jpeg",
+      "While the game has recoil, it’s not exactly reflected when firing weapons. So when you fire your gun, your reticle does not bounce around as it does in a game like PUBG Mobile, even when you’re looking down the sights. This means that you should be able to track your enemies without much difficulty. As such, all you need to do is fire in bursts to ensure good hits"
+    ],
+    [
+      "Use objects for cover",
+      "https://static.digit.in/default/ab77081b4a041639f664ad97c070b46394602752.jpeg",
+      "It’s pretty common for people playing PUBG Mobile to immediately go prone the moment someone is firing at them. That’s not gonna work in Garena Free Fire as there is hardly any grass fo you to hide in. So you’re better off dashing from cover-to-cover. This could be between buildings and trees on the way to the circle and possible victory"
+    ],
+    [
+      "Know when to fire",
+      "https://static.digit.in/default/28ebd4e9a8b8b5fb946592bbeac03d510370244b.jpeg",
+      "As with any other battle royale game, it’s very important to realise that it’s not about getting the most number of kills. It’s about survival. So it’s perfectly fine to sit in a corner and wait till the end. If you have to fire, make sure that it’s either in self-defence, or you’re guaranteed a kill. As we said before, the minimap will not only give away your position but also your orientation. Remember, you could kill 48 people on the map and still lose as the other guy just needs one kill"
+    ]
   ],
   
   "NativeCount":3,
