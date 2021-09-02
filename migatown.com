@@ -1,5 +1,5 @@
 {
-"admob":true;
+"admob":false;
 "adsadmb": {
     "admb_banner": "ca-app-pub-7526268824648661/9348662166",
     "admb_openad": "ca-app-pub-7526268824648661/3904763797",
