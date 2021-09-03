@@ -1,7 +1,7 @@
     {
       
       "show": true,
-      "CheckR": false,
+      "CheckR": true,
       "com": false,
       "published": false,
       
