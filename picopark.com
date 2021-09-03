@@ -8,8 +8,8 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://drive.google.com/uc?id=1GOiJW1CQQuW6GnRq2PQUDl_3IsTfvtFQ",
-      "privacy": "https://paulebarnese.github.io/privacy.html",
+      "video": "",
+      "privacy": "https://nadinnagell.github.io/privacy.html",
       
       "spancount": 1,
       
