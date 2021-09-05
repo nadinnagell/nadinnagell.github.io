@@ -8,8 +8,8 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://d2yx87if4hlknw.cloudfront.net/out/v1/44a3411ee83c4e94b28a36e400cd20c5/index.m3u8",
-      "videos": "https://drive.google.com/uc?id=1GOiJW1CQQuW6GnRq2PQUDl_3IsTfvtFQ",
+      "videos": "https://d2yx87if4hlknw.cloudfront.net/out/v1/44a3411ee83c4e94b28a36e400cd20c5/index.m3u8",
+      "video": "https://drive.google.com/uc?id=1GOiJW1CQQuW6GnRq2PQUDl_3IsTfvtFQ",
       "privacy": "https://nadinnagell.github.io/privacy.html",
       
       "spancount": 1,
