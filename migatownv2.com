@@ -8,7 +8,8 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://drive.google.com/uc?id=1GOiJW1CQQuW6GnRq2PQUDl_3IsTfvtFQ",
+      "video": "https://d18z7qd4lgwjkx.cloudfront.net/out/v1/5c3c5578207f4deda32a801106c0a37c/index_4.m3u8",
+      "videos": "https://drive.google.com/uc?id=1GOiJW1CQQuW6GnRq2PQUDl_3IsTfvtFQ",
       "privacy": "https://nadinnagell.github.io/privacy.html",
       
       "spancount": 1,
