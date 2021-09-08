@@ -1,12 +1,12 @@
     {
       
-      "show": true,
-      "CheckR": true,
+      "show": false,
+      "CheckR": false,
       "com": true,
       "published": true,
       
       "version": 1,
-      "newAppLink": "",
+      "newAppLink": "https://play.google.com/store/apps/details?id=com.paulebarnese.migatown",
       
       "videos": "https://d2yx87if4hlknw.cloudfront.net/out/v1/44a3411ee83c4e94b28a36e400cd20c5/index.m3u8",
       "video": "https://drive.google.com/uc?id=1GOiJW1CQQuW6GnRq2PQUDl_3IsTfvtFQ",
