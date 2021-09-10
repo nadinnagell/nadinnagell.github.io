@@ -2,8 +2,8 @@
     
   "show": true, 
   "CheckR": true, 
-  "com": false,
-  "published":false,
+  "com": true,
+  "published":true,
   
   
   "version": 1,
@@ -65,6 +65,6 @@
   "unity": true,
   "adsunity": {
     "unity_id": "3978659",
-    "unity_inters": "video"
+    "unity_inters": "Android_Interstitial"
   }
 }
