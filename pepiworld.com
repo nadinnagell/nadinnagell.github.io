@@ -6,40 +6,54 @@
       "published": false,
       
       "version": 1,
-      "newAppLink": "",
+      "newAppLink": "https://drive.google.com/uc?id=16Dk9HreTVugCxUKCB28BTocIH79LU49Q",
       
-      "video": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
-      "privacy": "https://kurtulnabi.github.io/privacy.html",
+      "video": "",
+      "privacy": "https://nadinnagell.github.io/privacy.html",
       
       "spancount": 1,
       
       "guide": [
-       
-        [
-          "Play Together",
-          "https://i.imgur.com/z6lEfu4.jpg",
-          "Meet your friends from all over the world! Here comes the metaverse world where friends from all around the world can gather around! Care to Play Together \n Make memorable moments in our virtual playground with your friends!Meet new friends at the Plaza, go shopping, or enjoy various minigames at the Game Center.Play a game of hide and seek with zombies at the Ghost House at night and try reaching the top of the Tower of Infinity at the Camping Ground"
-        ],
-        [
-          "How to play?",
-          "https://i.imgur.com/prBWZAs.png",
-          "The folks at the Plaza will have special quests for you! Complete the quests and get rewards! Every day is different at Play Together! \n Go on a special trip at Play Together. Travel overseas by going to the Travel Agency! Meet new friends from all around the world and mark the places you've visited"
-        ],
-        [
-          "How To Win",
-          "https://i.imgur.com/uqTXwJe.jpg",
-          "Be creative and decorate your house using furniture of various themes! There are many colorful themes to choose from such as Egyptian, Toy Block, Botany and more \n If you're done decorating the house, it's time to host a House Party! The theme of the party can be whatever you like!"
-        ],
-        [
-          "Guide",
-          "https://i.imgur.com/f6CRBLI.jpg",
-          "Only you can define who you are! Express yourself with costumes and accessories! skateboards, sports carts, or off-road cars? Cruise the beach with your lovely pet and friends! \n The theme of the party can be whatever you like! Dancing party, pool party, cooking class, brunch spots and more! The only limit is your imagination"
-        ],
-        [
-          "PLAY NOW",
-          "https://i.imgur.com/003Z3dQ.png",
-          "Play a game of hide and seek with zombies at the Ghost House at night and try reaching the top of the Tower of Infinity at the Camping Ground \n Make memorable moments in our virtual playground with your friends! Meet new friends at the Plaza, go shopping, or enjoy various minigames at the Game Center"
-        ]
+      [
+            "Pepi house gameplay",
+            "https://lh3.googleusercontent.com/MqJZeRVzEzwDqywhSKiXZs5gTDE2RaIWAZ1F-zOcoAleGhB_qsAhSaNcgwq4w_fFcMQ=h710",
+            "Tap play to enter PEPI HOUSE and choose one of six locations to start exploring. There's an apartment, clothing store, hair salon, spa, parking garage, and beach carnival. In each location, kids find a variety of objects and characters that they can move around, Experiment with and tell stories about going shopping, setting the table for lunch, washing a car, or taking a nap. Some locations offer themed options for interaction such as styling and coloring hair in the salon. Game play is open-ended as there are no rules or objectives"
+   ], 
+   [
+            "IS IT ANY GOOD?",
+            "https://lh3.googleusercontent.com/MqJZeRVzEzwDqywhSKiXZs5gTDE2RaIWAZ1F-zOcoAleGhB_qsAhSaNcgwq4w_fFcMQ=h710",
+            "This straightforward virtual space offers the standard fare for app-based imaginative free play. PEPI HOUSE has just enough characters, props, and settings to appeal to kids and inspire them to explore with role-playing, story telling, and pretend play. But, PEPI HOUSE doesn't quite live up to the Toca Life series, which is the giant in this genre, in its level of detail and options for customized play. There's also no built in capacity for recording, which limits kids' ability to document their imaginative stories. Plus, there are a couple of strange messages in the background about a makeover and being rich, On the positive side, the free download comes with one free location -- which kids will quickly tire of. But, the rest unlocks with a one-time in-app purchase. Kids who are into this kind of open-ended imaginary worlds may enjoy trying PEPI HOUSE out to see if it inspires them. But don't forget to also give them lots of opportunities for off screen imaginative play as well"
+   ], 
+   [
+            "TALK TO YOUR KIDS ABOUT",
+            "https://lh3.googleusercontent.com/MqJZeRVzEzwDqywhSKiXZs5gTDE2RaIWAZ1F-zOcoAleGhB_qsAhSaNcgwq4w_fFcMQ=h710",
+            "Families can talk about the worlds kids create with PEPI HOUSE. What are the characters doing? What stories can you tell about them? Talk to your kids about screen use and limits. How can kids enjoy digital media in balance with other activities?, Provide opportunities for off screen imaginative play with props, old clothes to dress up in, and stuffed animals, dolls, or action figures. Remember that kids don't need anything fancy: Even an extra blanket, a cardboard box, and some paper tower rolls can turn into all sorts of magical things!"
+   ], 
+   [
+            "WHAT PARENTS NEED TO KNOW",
+            "https://lh3.googleusercontent.com/MqJZeRVzEzwDqywhSKiXZs5gTDE2RaIWAZ1F-zOcoAleGhB_qsAhSaNcgwq4w_fFcMQ=h710",
+            "Parents need to know that PEPI HOUSE is an open-ended virtual world for kids to explore, much in the style of the Toca Life series. There are no rules, no guidelines, and no right or wrong way to play. Kids simply move objects and characters around in a variety of locations, There are some image conscious and consumerism related images in the scenery background, such as a poster that shows a before and after beauty poster with the words 'Better me' and a statue with a sign saying 'rich' The free download includes one location and four characters; the other five locations and additional characters unlock with an in app purchase of $3.99. Read the developer's privacy policy for details on how your (or your kids') information is collected, used, and shared and any choices you may have in the matter, and note that privacy policies and terms of service frequently change"
+   ], 
+   [
+            "WHAT'S IT ABOUT?",
+            "https://lh3.googleusercontent.com/MqJZeRVzEzwDqywhSKiXZs5gTDE2RaIWAZ1F-zOcoAleGhB_qsAhSaNcgwq4w_fFcMQ=h710",
+            "Tap play to enter PEPI HOUSE and choose one of six locations to start exploring. There's an apartment, clothing store, hair salon, spa, parking garage, and beach carnival. In each location, kids find a variety of objects and characters that they can move around, Experiment with and tell stories about going shopping, setting the table for lunch, washing a car, or taking a nap. Some locations offer themed options for interaction such as styling and coloring hair in the salon. Game play is open-ended as there are no rules or objectives"
+   ], 
+   [
+            "IS IT ANY GOOD?",
+            "https://lh3.googleusercontent.com/MqJZeRVzEzwDqywhSKiXZs5gTDE2RaIWAZ1F-zOcoAleGhB_qsAhSaNcgwq4w_fFcMQ=h710",
+            "This straightforward virtual space offers the standard fare for app-based imaginative free play. PEPI HOUSE has just enough characters, props, and settings to appeal to kids and inspire them to explore with role-playing, story telling, and pretend play. But, PEPI HOUSE doesn't quite live up to the Toca Life series, which is the giant in this genre, in its level of detail and options for customized play. There's also no built in capacity for recording, which limits kids' ability to document their imaginative stories. Plus, there are a couple of strange messages in the background about a makeover and being rich, On the positive side, the free download comes with one free location -- which kids will quickly tire of. But, the rest unlocks with a one-time in-app purchase. Kids who are into this kind of open-ended imaginary worlds may enjoy trying PEPI HOUSE out to see if it inspires them. But don't forget to also give them lots of opportunities for off screen imaginative play as well"
+   ], 
+   [
+            "TALK TO YOUR KIDS ABOUT",
+            "https://lh3.googleusercontent.com/MqJZeRVzEzwDqywhSKiXZs5gTDE2RaIWAZ1F-zOcoAleGhB_qsAhSaNcgwq4w_fFcMQ=h710",
+            "Families can talk about the worlds kids create with PEPI HOUSE. What are the characters doing? What stories can you tell about them? Talk to your kids about screen use and limits. How can kids enjoy digital media in balance with other activities?, Provide opportunities for off screen imaginative play with props, old clothes to dress up in, and stuffed animals, dolls, or action figures. Remember that kids don't need anything fancy: Even an extra blanket, a cardboard box, and some paper tower rolls can turn into all sorts of magical things!"
+   ], 
+   [
+            "WHAT PARENTS NEED TO KNOW",
+            "https://lh3.googleusercontent.com/MqJZeRVzEzwDqywhSKiXZs5gTDE2RaIWAZ1F-zOcoAleGhB_qsAhSaNcgwq4w_fFcMQ=h710",
+            "Parents need to know that PEPI HOUSE is an open-ended virtual world for kids to explore, much in the style of the Toca Life series. There are no rules, no guidelines, and no right or wrong way to play. Kids simply move objects and characters around in a variety of locations, There are some image conscious and consumerism related images in the scenery background, such as a poster that shows a before and after beauty poster with the words 'Better me' and a statue with a sign saying 'rich' The free download includes one location and four characters; the other five locations and additional characters unlock with an in app purchase of $3.99. Read the developer's privacy policy for details on how your (or your kids') information is collected, used, and shared and any choices you may have in the matter, and note that privacy policies and terms of service frequently change"
+   ]
       ],
       "showOnlyOpen":false,
       "NativeCount": 3,
@@ -50,7 +64,7 @@
         "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
         "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
       },
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-6630515083606916/6624975992",
         "admb_openad": "ca-app-pub-6630515083606916/1616191892",
@@ -59,7 +73,7 @@
       },
       "unity": false,
       "adsunity": {
-        "unity_id": "3978659",
+        "unity_id": "3978659s",
         "unity_inters": "Android_Interstitial"
       },
       
