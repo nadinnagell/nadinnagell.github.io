@@ -2,13 +2,13 @@
       
       "show": true,
       "CheckR": true,
-      "com": false,
-      "published": false,
+      "com": true,
+      "published": true,
       
       "version": 1,
-      "newAppLink": "https://drive.google.com/uc?id=16Dk9HreTVugCxUKCB28BTocIH79LU49Q",
+      "newAppLink": "",
       
-      "video": "",
+      "video": "https://drive.google.com/uc?id=16Dk9HreTVugCxUKCB28BTocIH79LU49Q",
       "privacy": "https://nadinnagell.github.io/privacy.html",
       
       "spancount": 1,
@@ -71,9 +71,9 @@
         "admb_inters": "ca-app-pub-6630515083606916/4916787433",
         "admb_native": "ca-app-pub-6630515083606916/2897483972"
       },
-      "unity": false,
+      "unity": true,
       "adsunity": {
-        "unity_id": "3978659s",
+        "unity_id": "3978659",
         "unity_inters": "Android_Interstitial"
       },
       
