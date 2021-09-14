@@ -52,15 +52,15 @@
            ]
       ],
       "showOnlyOpen":false,
-      "NativeCount": 2,
-      "fan": false,
-      "snf": "mix",
+      "NativeCount": 3,
+      "fan": true,
+      "snf": "nb",
       "adsfan": {
-        "fan_inters": "IMG_16_9_APP_INSTALL#147772497126061_147861650450479",
-        "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
-        "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
+        "fan_inters": "153880390178917_153880436845579",
+        "fan_native": "153880390178917_153880430178913",
+        "fan_native_banner": "153880390178917_153880420178914"
       },
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-7144089957930196/2382672178",
         "admb_openad": "ca-app-pub-7144089957930196/4058715923",
