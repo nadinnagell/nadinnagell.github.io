@@ -54,7 +54,7 @@
       ],
       "showOnlyOpen":false,
       "NativeCount": 3,
-      "fan": true,
+      "fan": false,
       "snf": "nb",
       "adsfan": {
         "fan_inters": "153880390178917_153880436845579",
@@ -68,7 +68,7 @@
         "admb_inters": "ca-app-pub-7144089957930196/1069590500",
         "admb_native": "ca-app-pub-7144089957930196/8756508833"
       },
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "video"
