@@ -49,14 +49,14 @@
         "fan_native": "1014430655984901_1014430699318230",
         "fan_native_banner": "1014430655984901_1014430709318229"
       },
-      "admob": false,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-6630515083606916/4100084113",
-        "admb_openad": "ca-app-pub-6630515083606916/1993984892",
-        "admb_inters": "ca-app-pub-6630515083606916/3307066564",
-        "admb_native": "ca-app-pub-6630515083606916/4843509519"
+        "admb_banner": "ca-app-pub-2467024233846885/2032663287",
+        "admb_openad": "ca-app-pub-2467024233846885/4440362443",
+        "admb_inters": "ca-app-pub-2467024233846885/8406499945",
+        "admb_native": "ca-app-pub-2467024233846885/1844961026"
       },
-      "unity": true,
+      "unity": false,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "video"
