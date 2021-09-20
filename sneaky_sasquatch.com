@@ -58,7 +58,7 @@
       ],
       "showOnlyOpen":false,
       "NativeCount": 3,
-      "fan": true,
+      "fan": false,
       "snf": "nb",
       "adsfan": {
         "fan_inters": "440067807390918_440067860724246",
@@ -72,7 +72,7 @@
         "admb_inters": "ca-app-pub-7144089957930196/6130345497",
         "admb_native": "ca-app-pub-7144089957930196/4817263822"
       },
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "Android_Interstitial"
