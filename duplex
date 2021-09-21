@@ -3,7 +3,7 @@
       "newAppLink": "",
       "version": 1,
       "show": true,
-      "com": false,
+      "com": true,
       
       "CheckR":true,
       
@@ -11,7 +11,7 @@
       
       "spancount": 1,
           
-        "isGuide":true,
+        "isGuide":false,
         
       "fan": false,
       "snf":"mix",
@@ -36,7 +36,7 @@
        "shownative":true,
       
       
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"
